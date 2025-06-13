@@ -20,7 +20,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ComposeApp",
-            url: "https://github.com/shafayathossain/kahfadios/releases/download/0.0.1/ComposeApp.xcframework.zip",
+            url: "https://github.com/shafayathossain/kahfadios/releases/download/0.0.2/ComposeApp.xcframework.zip",
             checksum: "87b72cd20c35775e99433040218586f2d00e7b84589bda710b499d303e43d895"
         )
     ]

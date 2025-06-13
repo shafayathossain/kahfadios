@@ -1,0 +1,5 @@
+framework module "ComposeApp" {
+    umbrella header "ComposeApp.h"
+    export *
+    module * { export * }
+}

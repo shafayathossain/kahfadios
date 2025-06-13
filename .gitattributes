@@ -1,0 +1,2 @@
+composeApp.xcframework/ios-arm64/ComposeApp.framework/ComposeApp filter=lfs diff=lfs merge=lfs -text
+composeApp.xcframework/ios-arm64_x86_64-simulator/ComposeApp.framework/ComposeApp filter=lfs diff=lfs merge=lfs -text
